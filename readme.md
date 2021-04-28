@@ -29,7 +29,7 @@ Plantmanager
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in web development!
+This app features all the latest tools and practices in mobile development!
 
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS.
 - ⚛️ **Expo** — Is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
